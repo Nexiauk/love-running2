@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"[html]": {
+			"editor.defaultFormatter": "vscode.html-language-features"
+		}
+	}
+}
